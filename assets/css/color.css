@@ -1,0 +1,27 @@
+
+:root {
+
+	--black: #01017C;
+	--white: #fff;
+	--primary: #43C4FE;
+
+	/* Background color */
+	--bg-white: #fff;
+	--bg-primary: #43C4FE;
+	--bg-gray: #F4F4F4;
+
+
+	/* text color */
+
+	--text-black: #161616;
+	--text-white: #fff;
+	--text-primary: #43C4FE;
+
+	/* Button */
+	--btn-primary-bg: #021DFE;
+	--btn-info-bg: #43C4FE;
+
+	/* Foooter */
+	--footer-bg: #707070;
+
+}
